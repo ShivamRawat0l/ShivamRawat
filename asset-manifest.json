@@ -1,15 +1,15 @@
 {
   "files": {
     "main.css": "/ShivamRawat/static/css/main.48698e23.chunk.css",
-    "main.js": "/ShivamRawat/static/js/main.bfee6ea7.chunk.js",
-    "main.js.map": "/ShivamRawat/static/js/main.bfee6ea7.chunk.js.map",
+    "main.js": "/ShivamRawat/static/js/main.e1086815.chunk.js",
+    "main.js.map": "/ShivamRawat/static/js/main.e1086815.chunk.js.map",
     "runtime-main.js": "/ShivamRawat/static/js/runtime-main.0db9f640.js",
     "runtime-main.js.map": "/ShivamRawat/static/js/runtime-main.0db9f640.js.map",
     "static/css/2.c0987273.chunk.css": "/ShivamRawat/static/css/2.c0987273.chunk.css",
     "static/js/2.a1b18e2c.chunk.js": "/ShivamRawat/static/js/2.a1b18e2c.chunk.js",
     "static/js/2.a1b18e2c.chunk.js.map": "/ShivamRawat/static/js/2.a1b18e2c.chunk.js.map",
     "index.html": "/ShivamRawat/index.html",
-    "precache-manifest.9a48c0ae6c28919587783be4ce11b71d.js": "/ShivamRawat/precache-manifest.9a48c0ae6c28919587783be4ce11b71d.js",
+    "precache-manifest.994be961acac1ccb1bd1134fab5e0401.js": "/ShivamRawat/precache-manifest.994be961acac1ccb1bd1134fab5e0401.js",
     "service-worker.js": "/ShivamRawat/service-worker.js",
     "static/css/2.c0987273.chunk.css.map": "/ShivamRawat/static/css/2.c0987273.chunk.css.map",
     "static/css/main.48698e23.chunk.css.map": "/ShivamRawat/static/css/main.48698e23.chunk.css.map",
@@ -52,6 +52,6 @@
     "static/css/2.c0987273.chunk.css",
     "static/js/2.a1b18e2c.chunk.js",
     "static/css/main.48698e23.chunk.css",
-    "static/js/main.bfee6ea7.chunk.js"
+    "static/js/main.e1086815.chunk.js"
   ]
 }
