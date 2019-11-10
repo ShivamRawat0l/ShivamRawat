@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "48d3cc469a5a3b3a211e0906fae80d8e",
+    "revision": "9751055ed5021d28ffb8a5da6c0705bb",
     "url": "/ShivamRawat/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ShivamRawat/static/css/2.c0987273.chunk.css"
   },
   {
-    "revision": "858c669eb8bf7dc95587",
+    "revision": "83b17fd2ba5e20a2cae1",
     "url": "/ShivamRawat/static/css/main.48698e23.chunk.css"
   },
   {
@@ -16,8 +16,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/ShivamRawat/static/js/2.a1b18e2c.chunk.js"
   },
   {
-    "revision": "858c669eb8bf7dc95587",
-    "url": "/ShivamRawat/static/js/main.e1086815.chunk.js"
+    "revision": "83b17fd2ba5e20a2cae1",
+    "url": "/ShivamRawat/static/js/main.dc5e73d7.chunk.js"
   },
   {
     "revision": "ff470861a03cbcffa581",
